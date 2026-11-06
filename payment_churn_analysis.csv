@@ -1,0 +1,5 @@
+PaymentMethod,Total_Customers,Churned_Customers,Churn_Rate
+Card,157,59,37.58
+Net Banking,140,52,37.14
+UPI,142,64,45.07
+Wallet,161,72,44.72
