@@ -1,7 +1,0 @@
-Issue,Action Taken,Reason
-Duplicate records,Removed 5 exact duplicate rows,Prevent duplicate records affecting analysis
-Missing Region,Replaced 13 missing values with Unknown,Preserve records without guessing the region
-Unknown TotalChargesINR,Converted unknown values to NaN,Unknown is not equivalent to zero
-MonthlyChargesINR outliers,Flagged 7 outliers; retained original values,Avoid deleting potentially valid high charges
-Categorical text,Removed leading/trailing spaces,Improve consistency of categorical values
-Numeric data type,Converted TotalChargesINR to numeric,Enable numerical analysis
